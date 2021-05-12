@@ -16,9 +16,3 @@ Click [here](https://drive.google.com/file/d/1JUP-gHqXwGRqDb3l6dzmbvR-_EtPzm5a/v
    year={2021}
  }
 ```
-
-## Environmental Requirement
-- Python 3.6
-- Pytorch 0.4.0
-- sklearn
-- numpy
